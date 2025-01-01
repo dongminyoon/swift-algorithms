@@ -7,5 +7,4 @@
 
 import Foundation
 
-print("Hello, World!")
-
+// 테스트용 리트코드
