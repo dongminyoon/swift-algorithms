@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A8CD12D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift */; };
+		CE1A8CD42D25280F001E76AE /* 1422-MaximumScoreAfterSplittingAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A8CD32D25280F001E76AE /* 1422-MaximumScoreAfterSplittingAString.swift */; };
 		CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8CB5622D1FD4EF006B64B5 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		CE1A8CD12D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "689-MaximumSumOf3NonOverlappingSubarrays.swift"; sourceTree = "<group>"; };
+		CE1A8CD32D25280F001E76AE /* 1422-MaximumScoreAfterSplittingAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1422-MaximumScoreAfterSplittingAString.swift"; sourceTree = "<group>"; };
 		CE8CB55F2D1FD4EF006B64B5 /* leetcode-algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-algorithms"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE8CB5622D1FD4EF006B64B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +63,7 @@
 			children = (
 				CE8CB5622D1FD4EF006B64B5 /* main.swift */,
 				CE1A8CD12D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift */,
+				CE1A8CD32D25280F001E76AE /* 1422-MaximumScoreAfterSplittingAString.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */,
+				CE1A8CD42D25280F001E76AE /* 1422-MaximumScoreAfterSplittingAString.swift in Sources */,
 				CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
