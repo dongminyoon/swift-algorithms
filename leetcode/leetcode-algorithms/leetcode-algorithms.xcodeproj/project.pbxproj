@@ -13,6 +13,7 @@
 		CE1A8CD82D253325001E76AE /* 643-MaximumAverageSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A8CD72D253325001E76AE /* 643-MaximumAverageSubarray.swift */; };
 		CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8CB5622D1FD4EF006B64B5 /* main.swift */; };
 		CED1CA632D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */; };
+		CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		CE8CB55F2D1FD4EF006B64B5 /* leetcode-algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-algorithms"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE8CB5622D1FD4EF006B64B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2270-NumberOfWaysToSplitArray.swift"; sourceTree = "<group>"; };
+		CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746-MinCostClimbingStairs.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				CE1A8CD52D252E13001E76AE /* 1137-NthTribonacciNumber.swift */,
 				CE1A8CD72D253325001E76AE /* 643-MaximumAverageSubarray.swift */,
 				CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */,
+				CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 				CE1A8CD82D253325001E76AE /* 643-MaximumAverageSubarray.swift in Sources */,
 				CE1A8CD42D25280F001E76AE /* 1422-MaximumScoreAfterSplittingAString.swift in Sources */,
 				CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */,
+				CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */,
 				CED1CA632D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift in Sources */,
 				CE1A8CD62D252E13001E76AE /* 1137-NthTribonacciNumber.swift in Sources */,
 			);
