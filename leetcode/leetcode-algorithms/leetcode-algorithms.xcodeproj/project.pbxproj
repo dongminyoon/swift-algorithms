@@ -18,6 +18,7 @@
 		CED1CA692D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA682D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift */; };
 		CED1CA6B2D292B680083C596 /* 1732-FindTheHighestAltitude.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA6A2D292B680083C596 /* 1732-FindTheHighestAltitude.swift */; };
 		CED1CA6D2D292DB90083C596 /* 1768-MergeStringsAlternately.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA6C2D292DB90083C596 /* 1768-MergeStringsAlternately.swift */; };
+		CED1CA6F2D2935D20083C596 /* 151-ReverseWordsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA6E2D2935D20083C596 /* 151-ReverseWordsInAString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		CED1CA682D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1930-UniqueLengthPalindromicSubsequences.swift"; sourceTree = "<group>"; };
 		CED1CA6A2D292B680083C596 /* 1732-FindTheHighestAltitude.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1732-FindTheHighestAltitude.swift"; sourceTree = "<group>"; };
 		CED1CA6C2D292DB90083C596 /* 1768-MergeStringsAlternately.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1768-MergeStringsAlternately.swift"; sourceTree = "<group>"; };
+		CED1CA6E2D2935D20083C596 /* 151-ReverseWordsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "151-ReverseWordsInAString.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				CED1CA682D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift */,
 				CED1CA6A2D292B680083C596 /* 1732-FindTheHighestAltitude.swift */,
 				CED1CA6C2D292DB90083C596 /* 1768-MergeStringsAlternately.swift */,
+				CED1CA6E2D2935D20083C596 /* 151-ReverseWordsInAString.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */,
 				CED1CA672D28359D0083C596 /* 2390-RemovingStarsFromAString.swift in Sources */,
 				CED1CA6D2D292DB90083C596 /* 1768-MergeStringsAlternately.swift in Sources */,
+				CED1CA6F2D2935D20083C596 /* 151-ReverseWordsInAString.swift in Sources */,
 				CE1A8CD82D253325001E76AE /* 643-MaximumAverageSubarray.swift in Sources */,
 				CE1A8CD42D25280F001E76AE /* 1422-MaximumScoreAfterSplittingAString.swift in Sources */,
 				CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */,
