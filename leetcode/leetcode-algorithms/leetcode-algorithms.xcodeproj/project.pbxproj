@@ -16,6 +16,7 @@
 		CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */; };
 		CED1CA672D28359D0083C596 /* 2390-RemovingStarsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */; };
 		CED1CA692D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA682D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift */; };
+		CED1CA6B2D292B680083C596 /* 1732-FindTheHighestAltitude.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA6A2D292B680083C596 /* 1732-FindTheHighestAltitude.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746-MinCostClimbingStairs.swift"; sourceTree = "<group>"; };
 		CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2390-RemovingStarsFromAString.swift"; sourceTree = "<group>"; };
 		CED1CA682D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1930-UniqueLengthPalindromicSubsequences.swift"; sourceTree = "<group>"; };
+		CED1CA6A2D292B680083C596 /* 1732-FindTheHighestAltitude.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1732-FindTheHighestAltitude.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */,
 				CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */,
 				CED1CA682D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift */,
+				CED1CA6A2D292B680083C596 /* 1732-FindTheHighestAltitude.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CED1CA6B2D292B680083C596 /* 1732-FindTheHighestAltitude.swift in Sources */,
 				CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */,
 				CED1CA672D28359D0083C596 /* 2390-RemovingStarsFromAString.swift in Sources */,
 				CE1A8CD82D253325001E76AE /* 643-MaximumAverageSubarray.swift in Sources */,
