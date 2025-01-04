@@ -11,12 +11,12 @@ struct MaximumSumOf3NonOverlappingSubarrays {
     
     /**
      ## Example 1.
-     - Input: nums = [1,2,1,2,6,7,5,1], k = 2
-     - Output: [0,3,5]
+     Input: nums = [1,2,1,2,6,7,5,1], k = 2
+     Output: [0,3,5]
 
      ## Example 2.
-     - Input: nums = [1,2,1,2,1,2,1,2,1], k = 2
-     - Output: [0,2,4]
+     Input: nums = [1,2,1,2,1,2,1,2,1], k = 2
+     Output: [0,2,4]
      */
     static func solution(_ nums: [Int], _ k: Int) -> [Int] {
         var windowSum = [Int]()

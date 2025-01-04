@@ -15,6 +15,7 @@
 		CED1CA632D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */; };
 		CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */; };
 		CED1CA672D28359D0083C596 /* 2390-RemovingStarsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */; };
+		CED1CA692D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA682D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2270-NumberOfWaysToSplitArray.swift"; sourceTree = "<group>"; };
 		CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746-MinCostClimbingStairs.swift"; sourceTree = "<group>"; };
 		CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2390-RemovingStarsFromAString.swift"; sourceTree = "<group>"; };
+		CED1CA682D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1930-UniqueLengthPalindromicSubsequences.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */,
 				CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */,
 				CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */,
+				CED1CA682D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */,
 				CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */,
 				CED1CA632D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift in Sources */,
+				CED1CA692D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift in Sources */,
 				CE1A8CD62D252E13001E76AE /* 1137-NthTribonacciNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

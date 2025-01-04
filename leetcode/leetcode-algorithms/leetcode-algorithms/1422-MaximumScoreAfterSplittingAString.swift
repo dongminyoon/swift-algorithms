@@ -11,12 +11,12 @@ struct MaximumScoreAfterSplittingAString {
     
     /**
      ## Example 1.
-     - Input: s = "011101"
-     - Output: 5
+     Input: s = "011101"
+     Output: 5
 
      ## Example 2.
-     - Input: s = "00111"
-     - Output: 5
+     Input: s = "00111"
+     Output: 5
      */
     static func solution(_ s: String) -> Int {
         var max: Int = 0

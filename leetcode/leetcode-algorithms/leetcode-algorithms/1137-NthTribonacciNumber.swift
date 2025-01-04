@@ -11,12 +11,12 @@ struct NthTribonacciNumber {
     
     /**
      ## Example 1.
-     - Input: n = 4
-     - Output: 4
+     Input: n = 4
+     Output: 4
 
      ## Example 2.
-     - Input: n = 25
-     - Output: 1389537
+     Input: n = 25
+     Output: 1389537
      */
     static func solution(_ n: Int) -> Int {
         var tribo = Array(repeating: 0, count: 38)

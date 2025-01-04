@@ -11,12 +11,12 @@ struct NumberOfWaysToSplitArray {
     
     /**
      ## Example 1.
-     - Input: nums = [10,4,-8,7]
-     - Output: 2
+     Input: nums = [10,4,-8,7]
+     Output: 2
 
      ## Example 2.
-     - Input: nums = [2,3,1,0]
-     - Output: 2
+     Input: nums = [2,3,1,0]
+     Output: 2
      */
     static func solution(_ nums: [Int]) -> Int {
         var result: Int = 0
