@@ -21,6 +21,7 @@
 		CED1CA6F2D2935D20083C596 /* 151-ReverseWordsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA6E2D2935D20083C596 /* 151-ReverseWordsInAString.swift */; };
 		CED1CA712D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA702D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift */; };
 		CED1CA732D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA722D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift */; };
+		CED1CA752D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA742D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		CED1CA6E2D2935D20083C596 /* 151-ReverseWordsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "151-ReverseWordsInAString.swift"; sourceTree = "<group>"; };
 		CED1CA702D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104-MaximumDepthOfBinaryTree.swift"; sourceTree = "<group>"; };
 		CED1CA722D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2215-FindTheDifferenceOfTwoArrays.swift"; sourceTree = "<group>"; };
+		CED1CA742D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933-NumberOfRecentCalls.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				CED1CA6E2D2935D20083C596 /* 151-ReverseWordsInAString.swift */,
 				CED1CA702D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift */,
 				CED1CA722D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift */,
+				CED1CA742D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			files = (
 				CED1CA6B2D292B680083C596 /* 1732-FindTheHighestAltitude.swift in Sources */,
 				CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */,
+				CED1CA752D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift in Sources */,
 				CED1CA672D28359D0083C596 /* 2390-RemovingStarsFromAString.swift in Sources */,
 				CED1CA6D2D292DB90083C596 /* 1768-MergeStringsAlternately.swift in Sources */,
 				CED1CA6F2D2935D20083C596 /* 151-ReverseWordsInAString.swift in Sources */,
