@@ -20,6 +20,7 @@
 		CED1CA6D2D292DB90083C596 /* 1768-MergeStringsAlternately.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA6C2D292DB90083C596 /* 1768-MergeStringsAlternately.swift */; };
 		CED1CA6F2D2935D20083C596 /* 151-ReverseWordsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA6E2D2935D20083C596 /* 151-ReverseWordsInAString.swift */; };
 		CED1CA712D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA702D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift */; };
+		CED1CA732D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA722D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		CED1CA6C2D292DB90083C596 /* 1768-MergeStringsAlternately.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1768-MergeStringsAlternately.swift"; sourceTree = "<group>"; };
 		CED1CA6E2D2935D20083C596 /* 151-ReverseWordsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "151-ReverseWordsInAString.swift"; sourceTree = "<group>"; };
 		CED1CA702D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104-MaximumDepthOfBinaryTree.swift"; sourceTree = "<group>"; };
+		CED1CA722D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2215-FindTheDifferenceOfTwoArrays.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				CED1CA6C2D292DB90083C596 /* 1768-MergeStringsAlternately.swift */,
 				CED1CA6E2D2935D20083C596 /* 151-ReverseWordsInAString.swift */,
 				CED1CA702D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift */,
+				CED1CA722D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				CED1CA632D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift in Sources */,
 				CED1CA692D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift in Sources */,
 				CE1A8CD62D252E13001E76AE /* 1137-NthTribonacciNumber.swift in Sources */,
+				CED1CA732D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
