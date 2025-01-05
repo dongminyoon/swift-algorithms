@@ -25,6 +25,7 @@
 		CED1CA772D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA762D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift */; };
 		CED1CA792D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA782D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift */; };
 		CED1CA7B2D2ACB7D0083C596 /* 841-KeysAndRooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA7A2D2ACB7D0083C596 /* 841-KeysAndRooms.swift */; };
+		CED1CA7D2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA7C2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -59,6 +60,7 @@
 		CED1CA762D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2095-DeleteTheMiddleNodeOfLinkedList.swift"; sourceTree = "<group>"; };
 		CED1CA782D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "199-BinaryTreeRightSideView.swift"; sourceTree = "<group>"; };
 		CED1CA7A2D2ACB7D0083C596 /* 841-KeysAndRooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "841-KeysAndRooms.swift"; sourceTree = "<group>"; };
+		CED1CA7C2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1926-NearestExitFromEntranceInMaze.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				CED1CA762D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift */,
 				CED1CA782D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift */,
 				CED1CA7A2D2ACB7D0083C596 /* 841-KeysAndRooms.swift */,
+				CED1CA7C2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */,
 				CED1CA632D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift in Sources */,
 				CED1CA692D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift in Sources */,
+				CED1CA7D2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift in Sources */,
 				CE1A8CD62D252E13001E76AE /* 1137-NthTribonacciNumber.swift in Sources */,
 				CED1CA732D2AA0920083C596 /* 2215-FindTheDifferenceOfTwoArrays.swift in Sources */,
 			);
