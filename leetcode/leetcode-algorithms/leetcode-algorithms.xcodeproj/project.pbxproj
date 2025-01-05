@@ -24,6 +24,7 @@
 		CED1CA752D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA742D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift */; };
 		CED1CA772D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA762D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift */; };
 		CED1CA792D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA782D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift */; };
+		CED1CA7B2D2ACB7D0083C596 /* 841-KeysAndRooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA7A2D2ACB7D0083C596 /* 841-KeysAndRooms.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -57,6 +58,7 @@
 		CED1CA742D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933-NumberOfRecentCalls.swift"; sourceTree = "<group>"; };
 		CED1CA762D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2095-DeleteTheMiddleNodeOfLinkedList.swift"; sourceTree = "<group>"; };
 		CED1CA782D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "199-BinaryTreeRightSideView.swift"; sourceTree = "<group>"; };
+		CED1CA7A2D2ACB7D0083C596 /* 841-KeysAndRooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "841-KeysAndRooms.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CED1CA742D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift */,
 				CED1CA762D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift */,
 				CED1CA782D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift */,
+				CED1CA7A2D2ACB7D0083C596 /* 841-KeysAndRooms.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			files = (
 				CED1CA792D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift in Sources */,
 				CED1CA6B2D292B680083C596 /* 1732-FindTheHighestAltitude.swift in Sources */,
+				CED1CA7B2D2ACB7D0083C596 /* 841-KeysAndRooms.swift in Sources */,
 				CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */,
 				CED1CA752D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift in Sources */,
 				CED1CA772D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift in Sources */,
