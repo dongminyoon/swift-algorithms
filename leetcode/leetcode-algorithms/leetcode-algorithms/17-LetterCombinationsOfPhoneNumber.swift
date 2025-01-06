@@ -9,6 +9,19 @@ import Foundation
 
 struct LetterCombinationsOfPhoneNumber {
     
+    /**
+     ## Example 1.
+     Input: digits = "23"
+     Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+
+     ## Example 2.
+     Input: digits = ""
+     Output: []
+
+     ## Example 3.
+     Input: digits = "2"
+     Output: ["a","b","c"]
+     */
     static func solution(_ digits: String) -> [String] {
         let map: [Int: [String]] = [
             2: ["a", "b", "c"],

@@ -12,6 +12,7 @@
 		CE1A8CD62D252E13001E76AE /* 1137-NthTribonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A8CD52D252E13001E76AE /* 1137-NthTribonacciNumber.swift */; };
 		CE1A8CD82D253325001E76AE /* 643-MaximumAverageSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A8CD72D253325001E76AE /* 643-MaximumAverageSubarray.swift */; };
 		CE82D3D12D2C022400651DF1 /* 17-LetterCombinationsOfPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE82D3D02D2C022400651DF1 /* 17-LetterCombinationsOfPhoneNumber.swift */; };
+		CE82D3D32D2C124E00651DF1 /* 62-UniquePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE82D3D22D2C124E00651DF1 /* 62-UniquePaths.swift */; };
 		CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8CB5622D1FD4EF006B64B5 /* main.swift */; };
 		CED1CA632D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */; };
 		CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */; };
@@ -48,6 +49,7 @@
 		CE1A8CD52D252E13001E76AE /* 1137-NthTribonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1137-NthTribonacciNumber.swift"; sourceTree = "<group>"; };
 		CE1A8CD72D253325001E76AE /* 643-MaximumAverageSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "643-MaximumAverageSubarray.swift"; sourceTree = "<group>"; };
 		CE82D3D02D2C022400651DF1 /* 17-LetterCombinationsOfPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17-LetterCombinationsOfPhoneNumber.swift"; sourceTree = "<group>"; };
+		CE82D3D22D2C124E00651DF1 /* 62-UniquePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62-UniquePaths.swift"; sourceTree = "<group>"; };
 		CE8CB55F2D1FD4EF006B64B5 /* leetcode-algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-algorithms"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE8CB5622D1FD4EF006B64B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2270-NumberOfWaysToSplitArray.swift"; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				CED1CA7C2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift */,
 				CED1CA7E2D2AD9EB0083C596 /* 374-GuessNumberHigherOrLower.swift */,
 				CE82D3D02D2C022400651DF1 /* 17-LetterCombinationsOfPhoneNumber.swift */,
+				CE82D3D22D2C124E00651DF1 /* 62-UniquePaths.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				CED1CA752D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift in Sources */,
 				CED1CA772D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift in Sources */,
 				CED1CA672D28359D0083C596 /* 2390-RemovingStarsFromAString.swift in Sources */,
+				CE82D3D32D2C124E00651DF1 /* 62-UniquePaths.swift in Sources */,
 				CED1CA6D2D292DB90083C596 /* 1768-MergeStringsAlternately.swift in Sources */,
 				CED1CA6F2D2935D20083C596 /* 151-ReverseWordsInAString.swift in Sources */,
 				CED1CA7F2D2AD9EB0083C596 /* 374-GuessNumberHigherOrLower.swift in Sources */,
