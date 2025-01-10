@@ -15,6 +15,7 @@
 		CE82D3D12D2C022400651DF1 /* 17-LetterCombinationsOfPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE82D3D02D2C022400651DF1 /* 17-LetterCombinationsOfPhoneNumber.swift */; };
 		CE82D3D32D2C124E00651DF1 /* 62-UniquePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE82D3D22D2C124E00651DF1 /* 62-UniquePaths.swift */; };
 		CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8CB5622D1FD4EF006B64B5 /* main.swift */; };
+		CE989A3C2D31928300B1011D /* 916-WordSubsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE989A3B2D31928300B1011D /* 916-WordSubsets.swift */; };
 		CED1CA632D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */; };
 		CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */; };
 		CED1CA672D28359D0083C596 /* 2390-RemovingStarsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */; };
@@ -56,6 +57,7 @@
 		CE82D3D22D2C124E00651DF1 /* 62-UniquePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62-UniquePaths.swift"; sourceTree = "<group>"; };
 		CE8CB55F2D1FD4EF006B64B5 /* leetcode-algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-algorithms"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE8CB5622D1FD4EF006B64B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CE989A3B2D31928300B1011D /* 916-WordSubsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "916-WordSubsets.swift"; sourceTree = "<group>"; };
 		CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2270-NumberOfWaysToSplitArray.swift"; sourceTree = "<group>"; };
 		CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746-MinCostClimbingStairs.swift"; sourceTree = "<group>"; };
 		CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2390-RemovingStarsFromAString.swift"; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				CE79D1682D2D48BB00B6C458 /* 198-HouseRobber.swift */,
 				CEF258C12D2EDCCB004B8D6C /* 735-AsteroidCollision.swift */,
 				CEF258C32D2EE7C9004B8D6C /* 283-MoveZeroes.swift */,
+				CE989A3B2D31928300B1011D /* 916-WordSubsets.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 				CE1A8CD82D253325001E76AE /* 643-MaximumAverageSubarray.swift in Sources */,
 				CE1A8CD42D25280F001E76AE /* 1422-MaximumScoreAfterSplittingAString.swift in Sources */,
 				CED1CA712D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift in Sources */,
+				CE989A3C2D31928300B1011D /* 916-WordSubsets.swift in Sources */,
 				CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */,
 				CE82D3D12D2C022400651DF1 /* 17-LetterCombinationsOfPhoneNumber.swift in Sources */,
 				CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */,
