@@ -16,7 +16,7 @@ struct WordSubsets {
 
      ## Example 2.
      Input: words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["l","e"]
-     Output: ["apple","google","leetcode"]
+     Output: ["apple","google","leetcode"] 
      */
     static func solution(_ words1: [String], _ words2: [String]) -> [String] {
         var words2Dictionary = [Character: Int]()
