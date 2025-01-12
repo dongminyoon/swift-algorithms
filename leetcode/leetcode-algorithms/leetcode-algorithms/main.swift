@@ -7,5 +7,5 @@
 
 import Foundation
 
-var array: [Int] = [[1, 2, 3, 4, 5]]
-print(array.map { $0 })
+var array: Set<Int> = []
+array.intersection([]).max()
