@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE02A07E2D3D60A800117FEC /* 216-CombinationSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02A07D2D3D60A800117FEC /* 216-CombinationSum3.swift */; };
 		CE19C3CA2D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19C3C92D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift */; };
 		CE19C3CC2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19C3CB2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift */; };
 		CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A8CD12D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift */; };
@@ -52,6 +53,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CE02A07D2D3D60A800117FEC /* 216-CombinationSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216-CombinationSum3.swift"; sourceTree = "<group>"; };
 		CE19C3C92D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2116-CheckIfAParenthesesString.swift"; sourceTree = "<group>"; };
 		CE19C3CB2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1071-GreatestCommonDivisorOfStrings.swift"; sourceTree = "<group>"; };
 		CE1A8CD12D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "689-MaximumSumOf3NonOverlappingSubarrays.swift"; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				CE989A3F2D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift */,
 				CE19C3C92D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift */,
 				CE19C3CB2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift */,
+				CE02A07D2D3D60A800117FEC /* 216-CombinationSum3.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				CED1CA792D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift in Sources */,
 				CED1CA6B2D292B680083C596 /* 1732-FindTheHighestAltitude.swift in Sources */,
 				CED1CA7B2D2ACB7D0083C596 /* 841-KeysAndRooms.swift in Sources */,
+				CE02A07E2D3D60A800117FEC /* 216-CombinationSum3.swift in Sources */,
 				CE19C3CC2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift in Sources */,
 				CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */,
 				CE989A402D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift in Sources */,

@@ -6,6 +6,3 @@
 //
 
 import Foundation
-
-var array: Set<Int> = []
-array.intersection([]).max()
