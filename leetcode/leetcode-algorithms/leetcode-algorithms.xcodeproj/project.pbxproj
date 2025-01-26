@@ -39,6 +39,7 @@
 		CED1CA7F2D2AD9EB0083C596 /* 374-GuessNumberHigherOrLower.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA7E2D2AD9EB0083C596 /* 374-GuessNumberHigherOrLower.swift */; };
 		CEF258C22D2EDCCB004B8D6C /* 735-AsteroidCollision.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF258C12D2EDCCB004B8D6C /* 735-AsteroidCollision.swift */; };
 		CEF258C42D2EE7C9004B8D6C /* 283-MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF258C32D2EE7C9004B8D6C /* 283-MoveZeroes.swift */; };
+		CEF97B6F2D4624C500ACAAA3 /* 724-FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF97B6E2D4624C500ACAAA3 /* 724-FindPivotIndex.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -87,6 +88,7 @@
 		CED1CA7E2D2AD9EB0083C596 /* 374-GuessNumberHigherOrLower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "374-GuessNumberHigherOrLower.swift"; sourceTree = "<group>"; };
 		CEF258C12D2EDCCB004B8D6C /* 735-AsteroidCollision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "735-AsteroidCollision.swift"; sourceTree = "<group>"; };
 		CEF258C32D2EE7C9004B8D6C /* 283-MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283-MoveZeroes.swift"; sourceTree = "<group>"; };
+		CEF97B6E2D4624C500ACAAA3 /* 724-FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "724-FindPivotIndex.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 				CE19C3CB2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift */,
 				CE02A07D2D3D60A800117FEC /* 216-CombinationSum3.swift */,
 				CE02A07F2D3D76BB00117FEC /* 1143-LongestCommonSubsequence.swift */,
+				CEF97B6E2D4624C500ACAAA3 /* 724-FindPivotIndex.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */,
 				CE989A402D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift in Sources */,
 				CE19C3CA2D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift in Sources */,
+				CEF97B6F2D4624C500ACAAA3 /* 724-FindPivotIndex.swift in Sources */,
 				CED1CA752D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift in Sources */,
 				CED1CA772D2AC3DA0083C596 /* 2095-DeleteTheMiddleNodeOfLinkedList.swift in Sources */,
 				CED1CA672D28359D0083C596 /* 2390-RemovingStarsFromAString.swift in Sources */,
