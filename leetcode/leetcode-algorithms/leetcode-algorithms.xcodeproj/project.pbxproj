@@ -41,6 +41,7 @@
 		CEF258C42D2EE7C9004B8D6C /* 283-MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF258C32D2EE7C9004B8D6C /* 283-MoveZeroes.swift */; };
 		CEF97B6F2D4624C500ACAAA3 /* 724-FindPivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF97B6E2D4624C500ACAAA3 /* 724-FindPivotIndex.swift */; };
 		CEF97B712D476EF300ACAAA3 /* 649-Dota2Senate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF97B702D476EF300ACAAA3 /* 649-Dota2Senate.swift */; };
+		CEF97B732D4774A100ACAAA3 /* 547-NumberOfProvinces.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF97B722D4774A000ACAAA3 /* 547-NumberOfProvinces.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -91,6 +92,7 @@
 		CEF258C32D2EE7C9004B8D6C /* 283-MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283-MoveZeroes.swift"; sourceTree = "<group>"; };
 		CEF97B6E2D4624C500ACAAA3 /* 724-FindPivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "724-FindPivotIndex.swift"; sourceTree = "<group>"; };
 		CEF97B702D476EF300ACAAA3 /* 649-Dota2Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "649-Dota2Senate.swift"; sourceTree = "<group>"; };
+		CEF97B722D4774A000ACAAA3 /* 547-NumberOfProvinces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "547-NumberOfProvinces.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 				CE02A07F2D3D76BB00117FEC /* 1143-LongestCommonSubsequence.swift */,
 				CEF97B6E2D4624C500ACAAA3 /* 724-FindPivotIndex.swift */,
 				CEF97B702D476EF300ACAAA3 /* 649-Dota2Senate.swift */,
+				CEF97B722D4774A000ACAAA3 /* 547-NumberOfProvinces.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				CE02A07E2D3D60A800117FEC /* 216-CombinationSum3.swift in Sources */,
 				CE19C3CC2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift in Sources */,
 				CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */,
+				CEF97B732D4774A100ACAAA3 /* 547-NumberOfProvinces.swift in Sources */,
 				CE989A402D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift in Sources */,
 				CE19C3CA2D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift in Sources */,
 				CEF97B6F2D4624C500ACAAA3 /* 724-FindPivotIndex.swift in Sources */,
