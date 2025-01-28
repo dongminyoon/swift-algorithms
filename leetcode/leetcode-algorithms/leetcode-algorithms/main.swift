@@ -6,3 +6,6 @@
 //
 
 import Foundation
+
+var dictionary = [Int: Int]()
+
