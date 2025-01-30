@@ -10,6 +10,7 @@
 		CE02A07E2D3D60A800117FEC /* 216-CombinationSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02A07D2D3D60A800117FEC /* 216-CombinationSum3.swift */; };
 		CE02A0802D3D76BB00117FEC /* 1143-LongestCommonSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02A07F2D3D76BB00117FEC /* 1143-LongestCommonSubsequence.swift */; };
 		CE05EB042D4B77BC00E7682A /* 72-EditDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05EB032D4B77BC00E7682A /* 72-EditDistance.swift */; };
+		CE05EB062D4B7C0B00E7682A /* 1657-DetermineIfTwoStringsAreClose.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05EB052D4B7C0B00E7682A /* 1657-DetermineIfTwoStringsAreClose.swift */; };
 		CE19C3CA2D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19C3C92D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift */; };
 		CE19C3CC2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE19C3CB2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift */; };
 		CE1A8CD22D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A8CD12D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift */; };
@@ -63,6 +64,7 @@
 		CE02A07D2D3D60A800117FEC /* 216-CombinationSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216-CombinationSum3.swift"; sourceTree = "<group>"; };
 		CE02A07F2D3D76BB00117FEC /* 1143-LongestCommonSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1143-LongestCommonSubsequence.swift"; sourceTree = "<group>"; };
 		CE05EB032D4B77BC00E7682A /* 72-EditDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "72-EditDistance.swift"; sourceTree = "<group>"; };
+		CE05EB052D4B7C0B00E7682A /* 1657-DetermineIfTwoStringsAreClose.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1657-DetermineIfTwoStringsAreClose.swift"; sourceTree = "<group>"; };
 		CE19C3C92D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2116-CheckIfAParenthesesString.swift"; sourceTree = "<group>"; };
 		CE19C3CB2D33DA1F003B21E8 /* 1071-GreatestCommonDivisorOfStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1071-GreatestCommonDivisorOfStrings.swift"; sourceTree = "<group>"; };
 		CE1A8CD12D252048001E76AE /* 689-MaximumSumOf3NonOverlappingSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "689-MaximumSumOf3NonOverlappingSubarrays.swift"; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 				CEC03AEE2D48B512005CC3C5 /* 1207-UniqueNumberOfOccurrences.swift */,
 				CEC03AF02D48C319005CC3C5 /* 714-BestTimeToBuyAndSellStockWithTransactionFee.swift */,
 				CE05EB032D4B77BC00E7682A /* 72-EditDistance.swift */,
+				CE05EB052D4B7C0B00E7682A /* 1657-DetermineIfTwoStringsAreClose.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				CE989A402D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift in Sources */,
 				CE19C3CA2D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift in Sources */,
 				CEF97B6F2D4624C500ACAAA3 /* 724-FindPivotIndex.swift in Sources */,
+				CE05EB062D4B7C0B00E7682A /* 1657-DetermineIfTwoStringsAreClose.swift in Sources */,
 				CED1CA752D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift in Sources */,
 				CEC03AEF2D48B512005CC3C5 /* 1207-UniqueNumberOfOccurrences.swift in Sources */,
 				CEC03AF12D48C319005CC3C5 /* 714-BestTimeToBuyAndSellStockWithTransactionFee.swift in Sources */,
