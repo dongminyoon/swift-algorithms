@@ -42,6 +42,7 @@
 		CED1CA7D2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA7C2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift */; };
 		CED1CA7F2D2AD9EB0083C596 /* 374-GuessNumberHigherOrLower.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA7E2D2AD9EB0083C596 /* 374-GuessNumberHigherOrLower.swift */; };
 		CEE847EC2D4F3CCA0069DB11 /* 2336-SmallestNumberInInfiniteSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE847EB2D4F3CCA0069DB11 /* 2336-SmallestNumberInInfiniteSet.swift */; };
+		CEE847EE2D4F53100069DB11 /* 2300-SuccessfulPairsOfSpellsAndPotions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE847ED2D4F53100069DB11 /* 2300-SuccessfulPairsOfSpellsAndPotions.swift */; };
 		CEF258C22D2EDCCB004B8D6C /* 735-AsteroidCollision.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF258C12D2EDCCB004B8D6C /* 735-AsteroidCollision.swift */; };
 		CEF258C42D2EE7C9004B8D6C /* 283-MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF258C32D2EE7C9004B8D6C /* 283-MoveZeroes.swift */; };
 		CEF40B7B2D4E1C4A0065D05E /* 338-CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF40B7A2D4E1C4A0065D05E /* 338-CountingBits.swift */; };
@@ -100,6 +101,7 @@
 		CED1CA7C2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1926-NearestExitFromEntranceInMaze.swift"; sourceTree = "<group>"; };
 		CED1CA7E2D2AD9EB0083C596 /* 374-GuessNumberHigherOrLower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "374-GuessNumberHigherOrLower.swift"; sourceTree = "<group>"; };
 		CEE847EB2D4F3CCA0069DB11 /* 2336-SmallestNumberInInfiniteSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2336-SmallestNumberInInfiniteSet.swift"; sourceTree = "<group>"; };
+		CEE847ED2D4F53100069DB11 /* 2300-SuccessfulPairsOfSpellsAndPotions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2300-SuccessfulPairsOfSpellsAndPotions.swift"; sourceTree = "<group>"; };
 		CEF258C12D2EDCCB004B8D6C /* 735-AsteroidCollision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "735-AsteroidCollision.swift"; sourceTree = "<group>"; };
 		CEF258C32D2EE7C9004B8D6C /* 283-MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283-MoveZeroes.swift"; sourceTree = "<group>"; };
 		CEF40B7A2D4E1C4A0065D05E /* 338-CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "338-CountingBits.swift"; sourceTree = "<group>"; };
@@ -181,6 +183,7 @@
 				CEF40B7A2D4E1C4A0065D05E /* 338-CountingBits.swift */,
 				CEF40B7C2D4E2FAF0065D05E /* 215-KthLargestElementInAnArray.swift */,
 				CEE847EB2D4F3CCA0069DB11 /* 2336-SmallestNumberInInfiniteSet.swift */,
+				CEE847ED2D4F53100069DB11 /* 2300-SuccessfulPairsOfSpellsAndPotions.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				CEF97B732D4774A100ACAAA3 /* 547-NumberOfProvinces.swift in Sources */,
 				CE989A402D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift in Sources */,
 				CE19C3CA2D33CDDB003B21E8 /* 2116-CheckIfAParenthesesString.swift in Sources */,
+				CEE847EE2D4F53100069DB11 /* 2300-SuccessfulPairsOfSpellsAndPotions.swift in Sources */,
 				CEF97B6F2D4624C500ACAAA3 /* 724-FindPivotIndex.swift in Sources */,
 				CE05EB062D4B7C0B00E7682A /* 1657-DetermineIfTwoStringsAreClose.swift in Sources */,
 				CED1CA752D2AA4E80083C596 /* 933-NumberOfRecentCalls.swift in Sources */,
