@@ -30,6 +30,7 @@
 		CE989A402D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE989A3F2D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift */; };
 		CEC03AEF2D48B512005CC3C5 /* 1207-UniqueNumberOfOccurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC03AEE2D48B512005CC3C5 /* 1207-UniqueNumberOfOccurrences.swift */; };
 		CEC03AF12D48C319005CC3C5 /* 714-BestTimeToBuyAndSellStockWithTransactionFee.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC03AF02D48C319005CC3C5 /* 714-BestTimeToBuyAndSellStockWithTransactionFee.swift */; };
+		CEC5AB5F2D5D10DB00B89C9A /* 872-LeafSimilarTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC5AB5E2D5D10DB00B89C9A /* 872-LeafSimilarTrees.swift */; };
 		CED1CA632D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */; };
 		CED1CA652D28302A0083C596 /* 746-MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */; };
 		CED1CA672D28359D0083C596 /* 2390-RemovingStarsFromAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */; };
@@ -93,6 +94,7 @@
 		CE989A3F2D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1400-ConstructKPalindromeStrings.swift"; sourceTree = "<group>"; };
 		CEC03AEE2D48B512005CC3C5 /* 1207-UniqueNumberOfOccurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207-UniqueNumberOfOccurrences.swift"; sourceTree = "<group>"; };
 		CEC03AF02D48C319005CC3C5 /* 714-BestTimeToBuyAndSellStockWithTransactionFee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "714-BestTimeToBuyAndSellStockWithTransactionFee.swift"; sourceTree = "<group>"; };
+		CEC5AB5E2D5D10DB00B89C9A /* 872-LeafSimilarTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "872-LeafSimilarTrees.swift"; sourceTree = "<group>"; };
 		CED1CA622D2826C90083C596 /* 2270-NumberOfWaysToSplitArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2270-NumberOfWaysToSplitArray.swift"; sourceTree = "<group>"; };
 		CED1CA642D28302A0083C596 /* 746-MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746-MinCostClimbingStairs.swift"; sourceTree = "<group>"; };
 		CED1CA662D28359D0083C596 /* 2390-RemovingStarsFromAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2390-RemovingStarsFromAString.swift"; sourceTree = "<group>"; };
@@ -196,6 +198,7 @@
 				CE682C092D526C0D001D3359 /* 88-MergeSortedArray.swift */,
 				CE682C0B2D526E6A001D3359 /* 27-RemoveElement.swift */,
 				CE682C0D2D527055001D3359 /* 26-RemoveDuplicatesFromSortedArray.swift */,
+				CEC5AB5E2D5D10DB00B89C9A /* 872-LeafSimilarTrees.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 				CED1CA7F2D2AD9EB0083C596 /* 374-GuessNumberHigherOrLower.swift in Sources */,
 				CE1A8CD82D253325001E76AE /* 643-MaximumAverageSubarray.swift in Sources */,
 				CE1A8CD42D25280F001E76AE /* 1422-MaximumScoreAfterSplittingAString.swift in Sources */,
+				CEC5AB5F2D5D10DB00B89C9A /* 872-LeafSimilarTrees.swift in Sources */,
 				CED1CA712D293E410083C596 /* 104-MaximumDepthOfBinaryTree.swift in Sources */,
 				CE682C082D52650A001D3359 /* 20-ValidParentheses.swift in Sources */,
 				CEF40B7D2D4E2FAF0065D05E /* 215-KthLargestElementInAnArray.swift in Sources */,
