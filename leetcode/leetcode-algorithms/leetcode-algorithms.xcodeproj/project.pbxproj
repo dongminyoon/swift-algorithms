@@ -25,6 +25,7 @@
 		CE82D3D12D2C022400651DF1 /* 17-LetterCombinationsOfPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE82D3D02D2C022400651DF1 /* 17-LetterCombinationsOfPhoneNumber.swift */; };
 		CE82D3D32D2C124E00651DF1 /* 62-UniquePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE82D3D22D2C124E00651DF1 /* 62-UniquePaths.swift */; };
 		CE8CB5632D1FD4EF006B64B5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8CB5622D1FD4EF006B64B5 /* main.swift */; };
+		CE91F95F2D5E648A00796428 /* 605-CanPlaceFlowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE91F95E2D5E648A00796428 /* 605-CanPlaceFlowers.swift */; };
 		CE989A3C2D31928300B1011D /* 916-WordSubsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE989A3B2D31928300B1011D /* 916-WordSubsets.swift */; };
 		CE989A3E2D326B7F00B1011D /* 394-DecodeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE989A3D2D326B7F00B1011D /* 394-DecodeString.swift */; };
 		CE989A402D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE989A3F2D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift */; };
@@ -91,6 +92,7 @@
 		CE82D3D22D2C124E00651DF1 /* 62-UniquePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "62-UniquePaths.swift"; sourceTree = "<group>"; };
 		CE8CB55F2D1FD4EF006B64B5 /* leetcode-algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-algorithms"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE8CB5622D1FD4EF006B64B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CE91F95E2D5E648A00796428 /* 605-CanPlaceFlowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "605-CanPlaceFlowers.swift"; sourceTree = "<group>"; };
 		CE989A3B2D31928300B1011D /* 916-WordSubsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "916-WordSubsets.swift"; sourceTree = "<group>"; };
 		CE989A3D2D326B7F00B1011D /* 394-DecodeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "394-DecodeString.swift"; sourceTree = "<group>"; };
 		CE989A3F2D3277CD00B1011D /* 1400-ConstructKPalindromeStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1400-ConstructKPalindromeStrings.swift"; sourceTree = "<group>"; };
@@ -205,6 +207,7 @@
 				CEC5AB5E2D5D10DB00B89C9A /* 872-LeafSimilarTrees.swift */,
 				CEC5AB602D5D12FD00B89C9A /* 392-IsSubsequence.swift */,
 				CEC5AB622D5D158D00B89C9A /* 1431-KidsWithTheGreatestNumberOfCandies.swift */,
+				CE91F95E2D5E648A00796428 /* 605-CanPlaceFlowers.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -312,6 +315,7 @@
 				CED1CA692D2925CE0083C596 /* 1930-UniqueLengthPalindromicSubsequences.swift in Sources */,
 				CE989A3E2D326B7F00B1011D /* 394-DecodeString.swift in Sources */,
 				CED1CA7D2D2AD5200083C596 /* 1926-NearestExitFromEntranceInMaze.swift in Sources */,
+				CE91F95F2D5E648A00796428 /* 605-CanPlaceFlowers.swift in Sources */,
 				CE02A0802D3D76BB00117FEC /* 1143-LongestCommonSubsequence.swift in Sources */,
 				CEF97B712D476EF300ACAAA3 /* 649-Dota2Senate.swift in Sources */,
 				CEF258C42D2EE7C9004B8D6C /* 283-MoveZeroes.swift in Sources */,
