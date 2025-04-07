@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE007A2F2DA3DAB30053200F /* 443-StringsCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE007A2E2DA3DAB30053200F /* 443-StringsCompression.swift */; };
 		CE02A07E2D3D60A800117FEC /* 216-CombinationSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02A07D2D3D60A800117FEC /* 216-CombinationSum3.swift */; };
 		CE02A0802D3D76BB00117FEC /* 1143-LongestCommonSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02A07F2D3D76BB00117FEC /* 1143-LongestCommonSubsequence.swift */; };
 		CE05EB042D4B77BC00E7682A /* 72-EditDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE05EB032D4B77BC00E7682A /* 72-EditDistance.swift */; };
@@ -82,6 +83,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CE007A2E2DA3DAB30053200F /* 443-StringsCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "443-StringsCompression.swift"; sourceTree = "<group>"; };
 		CE02A07D2D3D60A800117FEC /* 216-CombinationSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216-CombinationSum3.swift"; sourceTree = "<group>"; };
 		CE02A07F2D3D76BB00117FEC /* 1143-LongestCommonSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1143-LongestCommonSubsequence.swift"; sourceTree = "<group>"; };
 		CE05EB032D4B77BC00E7682A /* 72-EditDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "72-EditDistance.swift"; sourceTree = "<group>"; };
@@ -235,6 +237,7 @@
 				CE4D525A2D873258008FC4C5 /* 328-OddEvenLinkedList.swift */,
 				CE4D525C2D873770008FC4C5 /* 206-ReverseLinkedList.swift */,
 				CE2BABC72D8EA0B7000DD602 /* 334-IncreasingTripletSubsequence.swift */,
+				CE007A2E2DA3DAB30053200F /* 443-StringsCompression.swift */,
 			);
 			path = "leetcode-algorithms";
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE007A2F2DA3DAB30053200F /* 443-StringsCompression.swift in Sources */,
 				CED1CA792D2AC77E0083C596 /* 199-BinaryTreeRightSideView.swift in Sources */,
 				CED1CA6B2D292B680083C596 /* 1732-FindTheHighestAltitude.swift in Sources */,
 				CEA989A22D63A140006A5838 /* 345-ReverseVowelsOfAString.swift in Sources */,
